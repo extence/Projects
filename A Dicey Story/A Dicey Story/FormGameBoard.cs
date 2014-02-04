@@ -183,11 +183,6 @@ namespace SurvivalOfTheLuckiest
             }
             return diceBitmap;
         }
-
-        private void pbMain_Click(object sender, EventArgs e)
-        {
-
-        }
         private void timerDice_Tick(object sender, EventArgs e)
         {
 
@@ -208,7 +203,6 @@ namespace SurvivalOfTheLuckiest
             timerCount++;
 
         }
-
         private void pbDice_Click_1(object sender, EventArgs e)
         {
             if (RollFlag)
