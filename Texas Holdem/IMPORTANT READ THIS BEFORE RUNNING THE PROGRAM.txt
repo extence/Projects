@@ -1,4 +1,4 @@
-Turn off music by pressing the large sound button, it is very annoying.
+Turn off music by pressing the large sound button, it is very annoying. 
 
 To run the program, please have c# installed, open the poker .sln file, then click the run button (>).
 
