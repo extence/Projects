@@ -173,5 +173,11 @@ namespace SurvivalOfTheLuckiest
                 return 0;
                 
         }
+        private void btnOK_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
     }
 }
